@@ -1,0 +1,6 @@
+phase 1 - Wow! Brazil is big.
+phase 2 - 0 1 1 2 3 5
+phase 3 - 0 m 924
+phase 4 - 66 2
+phase 5 - gamfeg
+phase 6 - 4 1 5 6 2 3
